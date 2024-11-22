@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "roles/node_exporter_management": {
+      "component": "node_exporter_management",
+      "release-type": "simple"
+    }
+  }
+}
