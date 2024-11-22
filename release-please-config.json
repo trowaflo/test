@@ -1,7 +1,7 @@
 {
   "separate-pull-requests": true,
   "always-update": true,
-  "release-type": "manifest",
+  "release-type": "simple",
   "packages": {
     "roles/node_exporter_management": {
       "component": "node_exporter_management"
